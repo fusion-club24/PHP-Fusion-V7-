@@ -1,2 +1,3 @@
-# PHP-Fusion-V7-
-hier sind meine PHP Fusion V7 Skripte 
+# PHP-Fusion-V7
+ich habe eine anbindung myqsl und pdo für php 7 version 
+
